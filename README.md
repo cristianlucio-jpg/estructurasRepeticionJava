@@ -42,13 +42,12 @@ Forma parte de un portafolio académico y profesional orientado a la práctica d
 ```text
 estructurasRepeticionJava/
 ├── src/
-│   ├── ejercicio01/tablaMultiplicar.java
-│   ├── ejercicio02/arreglo.java
-│   ├── ejercicio03/carrito.java
-│   ├── ejercicio04/promedioNotas.java
-│   └── ejercicio05/registrosVentas.java
-└─ README.md
-
+│   ├── ejercicio01TablaMultiplicar/tablaMultiplicar.java
+│   ├── ejercicio02Arreglo/arreglo.java
+│   ├── ejercicio03Carrito/carrito.java
+│   ├── ejercicio04PromedioNotas/promedioNotas.java
+│   └── ejercicio05RegistrosVentas/registrosVentas.java
+└── README.md
 Autor
 Cristian Alexis Lucio Narváez  
 Proyecto académico y portafolio profesional en Java.
